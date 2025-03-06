@@ -1,4 +1,4 @@
-# SO_ATV1_EX1
+# so-atv1-ex1
 
 ## Sobre o projeto
 Exercício 1 da 1ª lista de exercícios da disciplina Sistemas Operacionais I ministrada pelo profº Leandro Colevati.
